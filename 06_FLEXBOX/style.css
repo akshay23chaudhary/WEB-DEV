@@ -1,0 +1,62 @@
+body{
+    font-family: "Noto Sans", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+h2{
+    color: #333;
+    
+}
+.container{
+    background-color: white;
+    border: 2px solid #333;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.flex-container{
+    display: flex;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin: 5px;
+}
+.pastel-1{
+    background-color: #ffb3ba;
+}
+.pastel-2{
+    background-color: #ffdfba;
+}
+.pastel-3{
+    background-color: #ffffba;
+}
+.pastel-4{
+    background-color: #baffc9;
+}
+.pastel-5{
+    background-color: #bae1ff;
+}
+.pastel-6{
+    background-color: #ffb3ff;
+}
+.pastel-7{
+    background-color: #b3ffff;
+}
+.pastel-8{
+    background-color: #ffb3b3;
+}
+.pastel-9{
+    background-color: #b3ffb3;
+}
+.pastel-10{
+    background-color: #b3b3ff;
+}
